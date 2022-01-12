@@ -17,5 +17,6 @@ npx hardhat help
  - Install @nomiclabs/hardhat-etherscan
  - Add in plugin in hardhat.config.js 
     ```etherscan: {
-        apiKey: "5G8AG6NAPWYQYI9G14I8ZJX7QFKFPJ2XKZ"
+        apiKey: "XXXXX"
     } ```
+- ``` npx hardhat verify 0xe69d062De423D8c07E5FA9f044a38f9bFB2Ce804 --network rinkeby ```
